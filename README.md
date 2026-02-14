@@ -31,11 +31,7 @@ python scripts/train_csencoder.py --epochs 5 --batch-size 32
   python scripts/compute_idf_text2cypher.py --limit 10
   python scripts/train_csencoder.py --limit 10 --epochs 2 --batch-size 4
   ```
-- **Resource Availability:** Upon acceptance, a DOI will be provided. See the "Resource Availability" section below.
 
-## Resource Availability
-
-Upon acceptance, the source code will be made publicly available in an archival repository with a persistent DOI. The camera-ready paper will include the Resource Availability statement per KDD 2026 artifact badging guidelines.
 
 ---
 
