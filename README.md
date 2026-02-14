@@ -164,12 +164,7 @@ The system supports:
 If you use this code, please cite:
 
 ```bibtex
-@inproceedings{csencoder2026,
-  title={CSEncoder: Hybrid Cypher Structure Encoder for Graph Query Translation},
-  author={[Authors]},
-  booktitle={Proceedings of the 32nd ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD)},
-  year={2026}
-}
+
 ```
 
 ## License
