@@ -1,0 +1,20 @@
+# Generated at runtime (do not submit)
+data/chromadb/*
+!data/chromadb/.gitkeep
+data/results/*
+!data/results/.gitkeep
+data/dataset/
+data/models/*.json
+data/models/*.pt
+data/models/token_to_id.json
+!data/models/.gitkeep
+
+# Temp / cache
+data/_tmp_*/
+__pycache__/
+*.pyc
+*.egg-info/
+.Python
+.pytest_cache/
+.coverage
+htmlcov/
